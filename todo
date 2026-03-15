@@ -1,0 +1,3 @@
+so this is the syntax of arrow functions in javascript:
+
+return_name = (parameters) => (operations and return )
