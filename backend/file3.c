@@ -37,3 +37,7 @@ int main(void) {
     pthread_mutex_destroy(&lock);
     return EXIT_SUCCESS;
 }
+
+
+ayoub change this 
+and ayoub change this again
