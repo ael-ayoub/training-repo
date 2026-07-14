@@ -43,5 +43,5 @@ int main(void) {
         printf("popped: %d\n", value);
     }
 
-    return 0;
+    return 1;
 }
